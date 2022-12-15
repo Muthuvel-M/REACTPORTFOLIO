@@ -196,6 +196,9 @@ class Home extends React.Component {
               <div class="skills__skill">HTML</div>
               <div class="skills__skill">CSS</div>
               <div class="skills__skill">JavaScript</div>
+            <div class="skills__skill">React(Beginner)</div>
+            <div class="skills__skill">Bootstrap</div>
+            <div class="skills__skill">Python</div>
              
             </div>
           </div>
